@@ -7,5 +7,5 @@ cd cpuminer
 make
 
 ./minerd -a yescrypt \
--o stratum+tcp://daddy-pool.work:15021 \
+-o stratum+tcp://daddy-pool.work:15022 \
 -u ZgBrc7ADziDrxMftL15Ud1nEd3qFiDsz99
